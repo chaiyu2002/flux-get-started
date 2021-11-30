@@ -1,0 +1,1 @@
+{"jobID":"686c23ae-278c-b406-31d2-a1d1852bde00","spec":{"type":"policy","cause":{"Message":"","User":"Yu Chai \u003cchaiyu@115bit.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"locked":"true","locked_msg":"","locked_user":"Yu Chai \u003cchaiyu@115bit.com\u003e"},"remove":{}}}},"result":null}
