@@ -1,0 +1,1 @@
+{"jobID":"9d0ce0c5-d4c5-00ed-dd40-17c3fc583016","spec":{"type":"policy","cause":{"Message":"","User":"zjs \u003czjs1107\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"locked":"true","locked_msg":"","locked_user":"zjs \u003czjs1107\u003e"},"remove":{}}}},"result":null}
